@@ -4,7 +4,7 @@ nlpboost package
 Subpackages
 -----------
 
-.. toctree::
+.. toctree::@masoudahg00
    :maxdepth: 4
 
    nlpboost.augmentation
